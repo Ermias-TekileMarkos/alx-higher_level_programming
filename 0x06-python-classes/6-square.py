@@ -54,4 +54,3 @@ class Square:
             print()
             return
         for y in range(0, self.__position[1]):
-
