@@ -1,0 +1,1 @@
+it is all about JavaScript - Objects, Scopes and Closures
