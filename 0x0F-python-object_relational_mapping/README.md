@@ -1,0 +1,1 @@
+all abt relational mapping using python
